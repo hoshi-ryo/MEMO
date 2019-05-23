@@ -24,7 +24,7 @@ PythonやScalaのNotebookから、`%sh`ステートメントでシェルを呼�
 ```
 
 ##補記
-databricksでJavaサポートといいつつJAR読めるだけじゃん。
+databricksでJavaサポートといいつつJAR読めるだけじゃん。。。  
 https://forums.databricks.com/questions/1564/can-i-run-java-in-a-scala-notebook.html
 
 
